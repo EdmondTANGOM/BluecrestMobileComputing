@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="hi_this_is_my_first_android_project">Hi! This is My First Android Project!</string>
+    <string name="thank_you_sir_for_the_videos_really_helpful">Thank You Sir For The Videos Really Helpful</string>
+</resources>
