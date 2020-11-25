@@ -80,7 +80,6 @@ public class MainActivity extends AppCompatActivity {
 
         String Col = "#" + red + green + blue;
         label.setBackgroundColor(Color.rgb(red,green,blue));
-        label.setText(Col);
     }
 
 }
