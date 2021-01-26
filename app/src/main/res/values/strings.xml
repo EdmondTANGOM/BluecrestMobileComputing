@@ -1,9 +1,6 @@
 <resources>
     <string name="app_name">ColorApp</string>
     <!-- Text field name  -->
-    <string name="RedText">Red</string>
-    <string name="GreenText">Green</string>
-    <string name="BlueText">Blue</string>
     <string name="Label">Your Color</string>
     <string name="Button">Button</string>
 
