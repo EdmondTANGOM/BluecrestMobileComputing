@@ -5,6 +5,6 @@
     <string name="GreenText">Green</string>
     <string name="BlueText">Blue</string>
     <string name="Label">Your Color</string>
-    <!-- Edit text hint -->
-    <string name="color_hint">color value</string>
+    <string name="Button">Button</string>
+
 </resources>
